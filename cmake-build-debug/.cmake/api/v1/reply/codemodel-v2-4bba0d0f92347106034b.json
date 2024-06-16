@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_Minesweeper",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Minesweeper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Minesweeper-Debug-b1657fdbbe91883e2f64.json",
+					"name" : "QT_Minesweeper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Minesweeper_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Minesweeper_autogen-Debug-d7859590b1422b0f9ecd.json",
+					"name" : "QT_Minesweeper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Minesweeper_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Minesweeper_autogen_timestamp_deps-Debug-fa9ad9d6151b87fbdd09.json",
+					"name" : "QT_Minesweeper_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug",
+		"source" : "/Users/serdarbahar/Desktop/QT-Minesweeper"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

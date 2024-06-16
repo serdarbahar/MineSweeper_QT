@@ -1,0 +1,5 @@
+/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug/CMakeFiles/QT_Minesweeper.dir
+/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug/CMakeFiles/QT_Minesweeper_autogen_timestamp_deps.dir
+/Users/serdarbahar/Desktop/QT-Minesweeper/cmake-build-debug/CMakeFiles/QT_Minesweeper_autogen.dir
